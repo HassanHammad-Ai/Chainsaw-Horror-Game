@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Unity\\Projects\\game Design Chainsaw Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B580B693-E87F-CDD5-9EBF-8DF2C91255F1}|Assembly-CSharp.csproj|d:\\unity\\projects\\game design chainsaw project\\assets\\scripts\\difficultymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B580B693-E87F-CDD5-9EBF-8DF2C91255F1}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\difficultymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B580B693-E87F-CDD5-9EBF-8DF2C91255F1}|Assembly-CSharp.csproj|d:\\unity\\projects\\game design chainsaw project\\assets\\scripts\\enemycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B580B693-E87F-CDD5-9EBF-8DF2C91255F1}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B580B693-E87F-CDD5-9EBF-8DF2C91255F1}|Assembly-CSharp.csproj|d:\\unity\\projects\\game design chainsaw project\\assets\\scripts\\cursorcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B580B693-E87F-CDD5-9EBF-8DF2C91255F1}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cursorcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CursorControl.cs",
+              "DocumentMoniker": "D:\\Unity\\Projects\\game Design Chainsaw Project\\Assets\\Scripts\\CursorControl.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CursorControl.cs",
+              "ToolTip": "D:\\Unity\\Projects\\game Design Chainsaw Project\\Assets\\Scripts\\CursorControl.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CursorControl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T15:55:38.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EnemyController.cs",
+              "DocumentMoniker": "D:\\Unity\\Projects\\game Design Chainsaw Project\\Assets\\Scripts\\EnemyController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyController.cs",
+              "ToolTip": "D:\\Unity\\Projects\\game Design Chainsaw Project\\Assets\\Scripts\\EnemyController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EnemyController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwKkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T15:49:13.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DifficultyManager.cs",
+              "DocumentMoniker": "D:\\Unity\\Projects\\game Design Chainsaw Project\\Assets\\Scripts\\DifficultyManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DifficultyManager.cs",
+              "ToolTip": "D:\\Unity\\Projects\\game Design Chainsaw Project\\Assets\\Scripts\\DifficultyManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DifficultyManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T15:43:08.04Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
